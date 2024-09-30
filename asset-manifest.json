@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/alexfrontendfr/Interview_Prep/static/css/main.d112ff72.css",
-    "main.js": "/alexfrontendfr/Interview_Prep/static/js/main.84f0fe3b.js",
-    "index.html": "/alexfrontendfr/Interview_Prep/index.html",
-    "main.d112ff72.css.map": "/alexfrontendfr/Interview_Prep/static/css/main.d112ff72.css.map",
-    "main.84f0fe3b.js.map": "/alexfrontendfr/Interview_Prep/static/js/main.84f0fe3b.js.map"
+    "main.css": "/alexfrontendfr/Interview_Prep/flashcard-app/static/css/main.d112ff72.css",
+    "main.js": "/alexfrontendfr/Interview_Prep/flashcard-app/static/js/main.84f0fe3b.js",
+    "index.html": "/alexfrontendfr/Interview_Prep/flashcard-app/index.html",
+    "main.d112ff72.css.map": "/alexfrontendfr/Interview_Prep/flashcard-app/static/css/main.d112ff72.css.map",
+    "main.84f0fe3b.js.map": "/alexfrontendfr/Interview_Prep/flashcard-app/static/js/main.84f0fe3b.js.map"
   },
   "entrypoints": [
     "static/css/main.d112ff72.css",
