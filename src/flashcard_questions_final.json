@@ -1,0 +1,1102 @@
+[
+    {
+        "question": "How would you optimize a landing page built with React to reduce load time and improve SEO?",
+        "options": [
+            "Use Lazy loading, Code splitting, and Server-side rendering",
+            "Use CSS animations",
+            "Add more APIs",
+            "Ignore bundle size"
+        ],
+        "answer": 0,
+        "explanation": "You should use techniques like lazy loading, code splitting, and server-side rendering (SSR) in React to optimize the landing page for performance and SEO."
+    },
+    {
+        "question": "Explain how you would set up A/B testing for a Next.js application\u2019s user interface.",
+        "options": [
+            "Run both versions in parallel without user interaction",
+            "Use a library like react-ab-test or analytics platform",
+            "Create a new branch and test on local",
+            "Deploy both to production randomly"
+        ],
+        "answer": 1,
+        "explanation": "Use a library like react-ab-test or analytics platforms to divide traffic and measure user interactions with different UI versions."
+    },
+    {
+        "question": "Describe how you would handle a high-traffic API in a Node.js environment to ensure scalability and reliability.",
+        "options": [
+            "Increase the event loop size",
+            "Use clustering, caching, and load balancing",
+            "Only use async requests",
+            "Increase server memory"
+        ],
+        "answer": 1,
+        "explanation": "Handling high-traffic APIs in Node.js requires clustering to distribute traffic, caching responses, and load balancing across multiple instances."
+    },
+    {
+        "question": "How would you ensure type safety while working with asynchronous requests in TypeScript?",
+        "options": [
+            "Use Promises only",
+            "Use async/await with proper type annotations",
+            "Avoid using types",
+            "Write separate functions for each type"
+        ],
+        "answer": 1,
+        "explanation": "Use async/await with proper type annotations in TypeScript to ensure type safety when handling asynchronous requests."
+    },
+    {
+        "question": "Sample technical question 5?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 5."
+    },
+    {
+        "question": "Sample technical question 6?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 6."
+    },
+    {
+        "question": "Sample technical question 7?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 7."
+    },
+    {
+        "question": "Sample technical question 8?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 8."
+    },
+    {
+        "question": "Sample technical question 9?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 9."
+    },
+    {
+        "question": "Sample technical question 10?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 10."
+    },
+    {
+        "question": "Sample technical question 11?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 11."
+    },
+    {
+        "question": "Sample technical question 12?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 12."
+    },
+    {
+        "question": "Sample technical question 13?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 13."
+    },
+    {
+        "question": "Sample technical question 14?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 14."
+    },
+    {
+        "question": "Sample technical question 15?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 15."
+    },
+    {
+        "question": "Sample technical question 16?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 16."
+    },
+    {
+        "question": "Sample technical question 17?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 17."
+    },
+    {
+        "question": "Sample technical question 18?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 18."
+    },
+    {
+        "question": "Sample technical question 19?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 19."
+    },
+    {
+        "question": "Sample technical question 20?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 20."
+    },
+    {
+        "question": "Sample technical question 21?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 21."
+    },
+    {
+        "question": "Sample technical question 22?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 22."
+    },
+    {
+        "question": "Sample technical question 23?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 23."
+    },
+    {
+        "question": "Sample technical question 24?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 24."
+    },
+    {
+        "question": "Sample technical question 25?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 25."
+    },
+    {
+        "question": "Sample technical question 26?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 26."
+    },
+    {
+        "question": "Sample technical question 27?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 27."
+    },
+    {
+        "question": "Sample technical question 28?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 28."
+    },
+    {
+        "question": "Sample technical question 29?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 29."
+    },
+    {
+        "question": "Sample technical question 30?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 30."
+    },
+    {
+        "question": "Sample technical question 31?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 31."
+    },
+    {
+        "question": "Sample technical question 32?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 32."
+    },
+    {
+        "question": "Sample technical question 33?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 33."
+    },
+    {
+        "question": "Sample technical question 34?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 34."
+    },
+    {
+        "question": "Sample technical question 35?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 35."
+    },
+    {
+        "question": "Sample technical question 36?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 36."
+    },
+    {
+        "question": "Sample technical question 37?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 37."
+    },
+    {
+        "question": "Sample technical question 38?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 38."
+    },
+    {
+        "question": "Sample technical question 39?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 39."
+    },
+    {
+        "question": "Sample technical question 40?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 40."
+    },
+    {
+        "question": "Sample technical question 41?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 41."
+    },
+    {
+        "question": "Sample technical question 42?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 42."
+    },
+    {
+        "question": "Sample technical question 43?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 43."
+    },
+    {
+        "question": "Sample technical question 44?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 44."
+    },
+    {
+        "question": "Sample technical question 45?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 45."
+    },
+    {
+        "question": "Sample technical question 46?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 46."
+    },
+    {
+        "question": "Sample technical question 47?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 47."
+    },
+    {
+        "question": "Sample technical question 48?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 48."
+    },
+    {
+        "question": "Sample technical question 49?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 49."
+    },
+    {
+        "question": "Sample technical question 50?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 50."
+    },
+    {
+        "question": "Sample technical question 51?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 51."
+    },
+    {
+        "question": "Sample technical question 52?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 52."
+    },
+    {
+        "question": "Sample technical question 53?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 53."
+    },
+    {
+        "question": "Sample technical question 54?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 54."
+    },
+    {
+        "question": "Sample technical question 55?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 55."
+    },
+    {
+        "question": "Sample technical question 56?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 56."
+    },
+    {
+        "question": "Sample technical question 57?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 57."
+    },
+    {
+        "question": "Sample technical question 58?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 58."
+    },
+    {
+        "question": "Sample technical question 59?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 59."
+    },
+    {
+        "question": "Sample technical question 60?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 60."
+    },
+    {
+        "question": "Sample technical question 61?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 61."
+    },
+    {
+        "question": "Sample technical question 62?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 62."
+    },
+    {
+        "question": "Sample technical question 63?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 63."
+    },
+    {
+        "question": "Sample technical question 64?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 64."
+    },
+    {
+        "question": "Sample technical question 65?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 65."
+    },
+    {
+        "question": "Sample technical question 66?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 66."
+    },
+    {
+        "question": "Sample technical question 67?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 67."
+    },
+    {
+        "question": "Sample technical question 68?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 68."
+    },
+    {
+        "question": "Sample technical question 69?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 69."
+    },
+    {
+        "question": "Sample technical question 70?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 70."
+    },
+    {
+        "question": "Sample technical question 71?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 71."
+    },
+    {
+        "question": "Sample technical question 72?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 72."
+    },
+    {
+        "question": "Sample technical question 73?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 73."
+    },
+    {
+        "question": "Sample technical question 74?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 74."
+    },
+    {
+        "question": "Sample technical question 75?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 75."
+    },
+    {
+        "question": "Sample technical question 76?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 76."
+    },
+    {
+        "question": "Sample technical question 77?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 77."
+    },
+    {
+        "question": "Sample technical question 78?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 78."
+    },
+    {
+        "question": "Sample technical question 79?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 79."
+    },
+    {
+        "question": "Sample technical question 80?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 80."
+    },
+    {
+        "question": "Sample technical question 81?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 81."
+    },
+    {
+        "question": "Sample technical question 82?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 82."
+    },
+    {
+        "question": "Sample technical question 83?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 83."
+    },
+    {
+        "question": "Sample technical question 84?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 84."
+    },
+    {
+        "question": "Sample technical question 85?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 85."
+    },
+    {
+        "question": "Sample technical question 86?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 86."
+    },
+    {
+        "question": "Sample technical question 87?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 87."
+    },
+    {
+        "question": "Sample technical question 88?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 88."
+    },
+    {
+        "question": "Sample technical question 89?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 89."
+    },
+    {
+        "question": "Sample technical question 90?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 90."
+    },
+    {
+        "question": "Sample technical question 91?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 91."
+    },
+    {
+        "question": "Sample technical question 92?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 92."
+    },
+    {
+        "question": "Sample technical question 93?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 93."
+    },
+    {
+        "question": "Sample technical question 94?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 94."
+    },
+    {
+        "question": "Sample technical question 95?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 95."
+    },
+    {
+        "question": "Sample technical question 96?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 96."
+    },
+    {
+        "question": "Sample technical question 97?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 97."
+    },
+    {
+        "question": "Sample technical question 98?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 98."
+    },
+    {
+        "question": "Sample technical question 99?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 99."
+    },
+    {
+        "question": "Sample technical question 100?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "answer": 0,
+        "explanation": "This is the explanation for sample technical question 100."
+    }
+]
