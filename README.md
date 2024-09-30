@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+# Flashcard Quiz App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a dynamic flashcard quiz application built with **React**, **Tailwind CSS**, and **Framer Motion** for animations. The application features a set of technical interview questions, answers, and explanations to help users prepare for interviews.
 
-## Available Scripts
+## **Features**
 
-In the project directory, you can run:
+- Dynamic background changes with each question
+- Smooth animations for correct and incorrect answers using **Framer Motion**
+- Detailed explanations for each question, displayed after selecting an answer
+- User-friendly interface with mobile responsiveness
+- Score tracking with an option to reset the quiz and start over
 
-### `npm start`
+## **Technologies Used**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **React**: Frontend JavaScript framework
+- **Tailwind CSS**: Utility-first CSS framework for styling
+- **Framer Motion**: For smooth animations
+- **JSON**: Used for storing the quiz questions, options, and explanations
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## **Installation and Setup Instructions**
 
-### `npm test`
+### **Prerequisites**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Make sure you have the following installed:
 
-### `npm run build`
+- **Node.js**: [Download and install Node.js](https://nodejs.org/)
+- **npm**: Installed with Node.js
+- **Git**: [Download and install Git](https://git-scm.com/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### **1. Clone the repository**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+git clone https://github.com/alexfrontendfr/Interview_Prep.git
+cd flashcard-app
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. Install dependencies
+   Make sure you have the necessary dependencies installed. Run the following command to install them:
 
-### `npm run eject`
+npm install
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+3. Start the development server
+   To run the application in development mode:
+   npm start
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This will run the app locally on http://localhost:3000. The page will reload when you make changes to the code.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+4. Build for production
+   To build the project for production:
+   npm run build
+   The build files will be created in the build/ directory, which is ready for deployment.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+5. Deploy to GitHub Pages
+   You can deploy this app to GitHub Pages by following these steps:
 
-## Learn More
+Install the gh-pages package (if not already installed):
+npm install gh-pages --save-dev
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Add the following scripts to your package.json:
+"homepage": "https://<your-github-username>.github.io/<repository-name>",
+"scripts": {
+"predeploy": "npm run build",
+"deploy": "gh-pages -d build"
+}
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Deploy the app to GitHub Pages:
+npm run deploy

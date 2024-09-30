@@ -2,68 +2,68 @@
     {
         "question": "How would you optimize a landing page built with React to reduce load time and improve SEO?",
         "options": [
-            "Use Lazy loading, Code splitting, and Server-side rendering",
-            "Use CSS animations",
-            "Add more APIs",
-            "Ignore bundle size"
-        ],
-        "answer": 0,
-        "explanation": "You should use techniques like lazy loading, code splitting, and server-side rendering (SSR) in React to optimize the landing page for performance and SEO."
-    },
-    {
-        "question": "Explain how you would set up A/B testing for a Next.js application\u2019s user interface.",
-        "options": [
-            "Run both versions in parallel without user interaction",
-            "Use a library like react-ab-test or analytics platform",
-            "Create a new branch and test on local",
-            "Deploy both to production randomly"
+            "Use client-side rendering and larger image sizes",
+            "Implement server-side rendering, lazy loading, and smaller bundles",
+            "Increase the size of JavaScript bundles and use animations",
+            "Disable caching to ensure every load is fresh"
         ],
         "answer": 1,
-        "explanation": "Use a library like react-ab-test or analytics platforms to divide traffic and measure user interactions with different UI versions."
+        "explanation": "To optimize a React landing page, server-side rendering (SSR) can improve SEO, while lazy loading and code-splitting help reduce initial load times. Reducing JavaScript bundle size further boosts performance."
     },
     {
-        "question": "Describe how you would handle a high-traffic API in a Node.js environment to ensure scalability and reliability.",
+        "question": "How would you set up A/B testing for a Next.js application\u2019s user interface?",
         "options": [
-            "Increase the event loop size",
-            "Use clustering, caching, and load balancing",
-            "Only use async requests",
-            "Increase server memory"
+            "Manually switch between variations on your localhost",
+            "Use a split-testing library like react-ab-test and set up different variations",
+            "Create two separate apps and manually check user interactions",
+            "Make variations randomly visible to users without tracking"
         ],
         "answer": 1,
-        "explanation": "Handling high-traffic APIs in Node.js requires clustering to distribute traffic, caching responses, and load balancing across multiple instances."
+        "explanation": "To set up A/B testing in Next.js, libraries like react-ab-test help define UI component variations. These are tested by splitting traffic and measuring the success of each variation through analytics tools."
+    },
+    {
+        "question": "How would you handle global state management in a large Next.js application?",
+        "options": [
+            "Directly pass props to every component",
+            "Use Redux or Context API for global state management",
+            "Store global state in localStorage only",
+            "Avoid state management and rely solely on API calls"
+        ],
+        "answer": 1,
+        "explanation": "In large Next.js apps, global state management can be efficiently handled using Redux or the Context API. This ensures that state changes only affect necessary components, preventing excessive re-renders."
     },
     {
         "question": "How would you ensure type safety while working with asynchronous requests in TypeScript?",
         "options": [
-            "Use Promises only",
-            "Use async/await with proper type annotations",
-            "Avoid using types",
-            "Write separate functions for each type"
+            "Use any for every type to avoid errors",
+            "Use async/await along with proper type annotations",
+            "Avoid using types altogether for async functions",
+            "Handle errors by ignoring type definitions"
         ],
         "answer": 1,
-        "explanation": "Use async/await with proper type annotations in TypeScript to ensure type safety when handling asynchronous requests."
+        "explanation": "In TypeScript, using async/await along with proper type annotations ensures type safety. You define types for request parameters and response objects to maintain consistent, predictable results."
     },
     {
-        "question": "Sample technical question 5?",
+        "question": "How do you handle server-side rendering (SSR) in a Next.js application, and why is it important?",
         "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
+            "SSR is not useful in Next.js",
+            "SSR improves SEO by rendering pages server-side and is implemented using getServerSideProps",
+            "SSR only works for static websites",
+            "SSR allows pages to load slower but ensures they're up to date"
         ],
-        "answer": 0,
-        "explanation": "This is the explanation for sample technical question 5."
+        "answer": 1,
+        "explanation": "In Next.js, SSR improves SEO by rendering HTML on the server before sending it to the client. This makes pages easier for search engines to index and improves the initial page load experience for users."
     },
     {
-        "question": "Sample technical question 6?",
+        "question": "How would you implement dynamic routing in a Next.js application?",
         "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
+            "Use dynamic pages and parametric routes in the pages directory",
+            "Create multiple static HTML files",
+            "Manually define routes for each page",
+            "Use a third-party routing library"
         ],
         "answer": 0,
-        "explanation": "This is the explanation for sample technical question 6."
+        "explanation": "Next.js supports file-based dynamic routing using square brackets in filenames, like [id].js. You can use this approach to create dynamic routes based on URL parameters."
     },
     {
         "question": "Sample technical question 7?",
